@@ -1,6 +1,36 @@
 {
- "generated_at": "2026-10-06T22:55:45Z",
+ "generated_at": "2026-10-06T23:12:41Z",
  "events": [
+  {
+   "id": "f4d0a5406369",
+   "player": "Rowan Atkinson",
+   "type": "Break",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Rowan Atkinson to revive Mr Bean and Blackadder after decades-long hiatus in new show",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQenhsWmZ4ZUc5QXFBd3hEVDNrelFibEVpOTZGNEpWYXJoZGhpOWRIVEw0YkNzT1dzRFJPZ3NkOUZFRlVpY1NaSW5iSnVZdENQbnRqWERxM19rMVJ4MGJ3WmpVT1RTTGFpQ1dtc0lhaXdBT25lc3l1U2VKUXl4NDVCTmViY202ZmJsdW1uWmxSVWg?oc=5",
+   "sources": [
+    "GB News"
+   ],
+   "published": "2026-10-06T23:11:26Z",
+   "found_at": "2026-10-06T23:12:40Z"
+  },
+  {
+   "id": "9ceb4394924e",
+   "player": "WWE Drew McIntyre",
+   "type": "Break",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "WWE: Drew McIntyre Brutally Mocks CM Punk Amid WWE Hiatus",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUExOVdCbXBlOGVoUWp4LVBkdnpGWmVpVWhxSU5FaTBUa3A2QjZTcWlvMkpLMDloQXVfdHV1LWFaUklGcWR3U2pCQmo4dFZIdG1IRlpFaS1QWmZEWEYtWGFpNEtQajVBelJ3bEI3WTFWV1pDM2ZyV0haUG5HT2l6XzkzNS15V1dlbHZDWnFrNjJoZ28?oc=5",
+   "sources": [
+    "Sportskeeda"
+   ],
+   "published": "2026-10-06T23:00:00Z",
+   "found_at": "2026-10-06T23:12:40Z"
+  },
   {
    "id": "d04e5c71e2a0",
    "player": "Don’t",
@@ -241,7 +271,8 @@
     "Geo Super",
     "ESPN",
     "Bozeman Daily Chronicle",
-    "Toronto Star"
+    "Toronto Star",
+    "Tennis World Italia"
    ],
    "published": "2026-10-06T14:24:31Z",
    "found_at": "2026-10-06T22:55:41Z"
