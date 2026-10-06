@@ -1,3 +1,44 @@
 {
- "feeds": []
+ "feeds": [
+  {
+   "name": "News: medical timeout",
+   "ok": true,
+   "error": ""
+  },
+  {
+   "name": "News: retires injury",
+   "ok": true,
+   "error": ""
+  },
+  {
+   "name": "News: withdraws injury",
+   "ok": true,
+   "error": ""
+  },
+  {
+   "name": "News: ATP injury",
+   "ok": true,
+   "error": ""
+  },
+  {
+   "name": "News: WTA injury",
+   "ok": true,
+   "error": ""
+  },
+  {
+   "name": "News: breaks and hiatus",
+   "ok": true,
+   "error": ""
+  },
+  {
+   "name": "BBC Sport tennis",
+   "ok": true,
+   "error": ""
+  },
+  {
+   "name": "Reddit r/tennis",
+   "ok": true,
+   "error": ""
+  }
+ ]
 }

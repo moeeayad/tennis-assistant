@@ -1,4 +1,859 @@
 {
- "generated_at": null,
- "events": []
+ "generated_at": "2026-10-06T22:55:45Z",
+ "events": [
+  {
+   "id": "d04e5c71e2a0",
+   "player": "Don’t",
+   "type": "Injury",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "‘Don’t feel great’: Demon devastated, Lleyton concerned as injury blow ruins Djokovic final",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPWlVSQnlYTmo5OFA5X2RoOWhfMDdXMHZjdFV0cmRlTFRuU3dDRXl6Wnc2QzJ6aU5SOXV1NHhUZW1yV2I1ZjI1b0V0MjFJemYyNEIyamV3cUtac1k5eVpYZEZ0V00xMDhfcGF0OFhkM0NsNG9lTUg1c0xUQTEwb194elFzWkgwbTFYQ1NrUlVJZ2JkZ1cwVXRJYW5JdUotUjdTREdwdzk1UEJQMzFYTDQyMFVDSExYS002bkNWdm0xcE5YVkp6NFJ2UFctSlRLR0dVb3c0YXBHTi10bVlKX2xsVXVsV081cFYwRjFEc2JPM1Vzc0NZdFVlbVFXbUhfUUNaOHVkZ2xLV1ZaRFV4RTVqTnZtTFVDVmtfb1hSbzVNTFBBYl9DSUd6TEtFM3htQkh0RHFyd2lfWnFVdGRKMXQ0UURUS0NEd1d5Qm43S2oxWnZBRF9ON3dQMXdpdTlYMGgy0gHgAkFVX3lxTE9aVVJCeVhOajk4UDlfZGg5aF8wN1cwdmN0VXRyZGVMVG5Td0NFeXpadzZDMnppTlI5dXU0eFRlbXJXYjVmMjVvRXQyMUl6ZjI0QjJqZXdxS1pzWTl5WlhkRnRXTTEwOF9wYXQ4WGQzQ2w0b2VNSDVzTFRBMTBvX3h6UXNaSDBtMVhDU2tSVUlnYmRnVzBVdElhbkl1Si1SN1NER3B3OTVQQlAzMVhMNDIwVUNITFhLTTZuQ1Z2bTFwTlhWSno0UnZQVy1KVEtHR1VvdzRhcEdOLXRtWUpfbGxVdWxXTzVwVjBGMURzYk8zVXNzQ1l0VWVtUVdtSF9RQ1o4dWRnbEtXVlpEVXhFNWpOdm1MVUNWa19vWFJvNU1MUEFiX0NJR3pMS0UzeG1CSHREcXJ3aV9acVV0ZEoxdDRRRFRLQ0R3V3lCbjdLajFadkFEX043d1Axd2l1OVgwaDI?oc=5",
+   "sources": [
+    "Fox Sports"
+   ],
+   "published": "2026-10-06T20:35:52Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "96d94e395817",
+   "player": "Elena Rybakina",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Elena Rybakina Withdraws From Wuhan Just Days After China Open Upset",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2ZmcVBUbS04RjJyUHNjWEktbk9CUnB5S25mVmhOLWhfS2k4MVFEejhKRGxEMzBUcFJINXc4SXJzX3RwaTFrUDR0VGJkTnpvSzYwQ2lhRHEyMU5iWFNFRkZIUHo1anR5SGwyTWktYUdSYng4Q2hLQTVaOUR3alpkeTFnSlM1b1JMUGFIWWZBNXJ1UWxYRjhuSHpMVzJKQ21oR3I1SEpGVkpxLVd4TVlNVQ?oc=5",
+   "sources": [
+    "Sports Illustrated"
+   ],
+   "published": "2026-10-06T19:59:00Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "c9ecd7d5b26a",
+   "player": "Annabel Croft",
+   "type": "MTO",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Annabel Croft demands rule change after controversial Medvedev medical time-out",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOWtSbmFnaVdvc1piU3RGSUl2VjBhVHlJemlCUEFHQVdzZGFzTmgtY2dXN3Y0ODA3cF9FRWoxUmVma3hBanNkeEdYdXU4S01HUTdZMjFDWFJVaWhxZUJZWjc1Y3ZsSU4wcGFFOHhZVzUyYVhOQ0dpQnpPTU1PV2RXU0c1eVVOclh0VWJCbVNJSFo3OUhjLW5LcXB4RXZNZEhSSU1hLVBaaTBfdXVJQ3dwcUFCWDFWbXplb0J0N09VSDNyUDBFdktFdC1JbnZYZVYxZWpULUdfUzRsNzJJ?oc=5",
+   "sources": [
+    "Tennis World USA"
+   ],
+   "published": "2026-10-06T19:00:00Z",
+   "found_at": "2026-10-06T22:55:41Z"
+  },
+  {
+   "id": "e9f47b82e536",
+   "player": "Carlos Alcaraz Wins",
+   "type": "Injury",
+   "reason": "wrist",
+   "confidence": "medium",
+   "headline": "Carlos Alcaraz Wins First Tournament Since His Wrist Injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObU5NQ1VKQzlxakkzZVA0MlhJMVpIaVJjSFl3NDBVUEtaUFA4b2E4LWxrV1JEaG40Y3pINzlkQjJMUkg3ZGtMOUJsN0llRXN6cVNxRDhBN0ZNWkhLV3ppYUdfZG03bnQtUHNhTXl3b1JkSU5pQ1pmdnNfRGE2WWdicUVoQkw0OUZRbXVZMm56X25OQWVvbWxZ?oc=5",
+   "sources": [
+    "Men's Journal"
+   ],
+   "published": "2026-10-06T17:47:59Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "c53437d3ba71",
+   "player": "Arthur Rinderknech",
+   "type": "Injury",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Arthur Rinderknech reveals the severity of his injury: \"My body reminded me it was time to take a break\"",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTRBQmM1QThHQVlyWndkUzlha3h5WHZmaWtwTml0M2k1amZoUTlPNjF2R0pNSmYwX3NVdzdBekw4dDF5WHBLVDBaVk84amZxYXQwVTdkWjhoMHpjOVlQNDZaMVNxdWMySXpPV01tb0R4Ml9WdVJnNExkNEw5VFZzMS14NTgwMm1WbXRwbQ?oc=5",
+   "sources": [
+    "TennisTemple"
+   ],
+   "published": "2026-10-06T17:42:25Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "acdb0038e0eb",
+   "player": "Osaka",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Osaka withdraws from Wuhan to spend time with her family, will return for WTA 500 Tokyo",
+   "snippet": "submitted by /u/jovanmilic97 [link] [comments]",
+   "url": "https://www.reddit.com/r/tennis/comments/1wz8wex/osaka_withdraws_from_wuhan_to_spend_time_with_her/",
+   "sources": [
+    "Reddit r/tennis"
+   ],
+   "published": "2026-10-06T17:38:24Z",
+   "found_at": "2026-10-06T22:55:45Z"
+  },
+  {
+   "id": "d9ddd9dadd4b",
+   "player": "Alex de Minaur",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Alex de Minaur confirms the reason why he retired from Beijing final vs Novak Djokovic and offers fitness update",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSF8wY20tNlEzTHhFZlIzWTVXbV8wRmlOeGFfSzZBRDZyMk44enEybzhHMzBVZHotS1MtclY0am9UcUozUTRvQ2Rla2JQcFBFdGRwdXlSUGpDRXJxdGV6SnktRWFXdXFjU1dfZlltZ3JFSk10MW5MRmhFblFWUU9xWFBvWm1DTlIyRXhlRE56WHVXTlJoQU1HWHFVU3Z2dERBS3M2OXJfOUJKU1VjN1QtMXlZOTVmUzhPREVrdkljVk5NN0JKU0t0clJvY0JjYjRmQmc?oc=5",
+   "sources": [
+    "Tennishead",
+    "Daily Express",
+    "Sky Sports"
+   ],
+   "published": "2026-10-06T17:00:00Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "f57aeeac23a4",
+   "player": "Denis Shapovalov",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Why Denis Shapovalov made a sudden decision about withdrawing from Shanghai",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGloMmM5QkJPRHJLNkdtNkVQc2JCNkl5ZVRXWDhseDh1UkVZcWFSQld0X1ZsZm9EeUE3dVZId0l0dDJsRG1XVGJVOTJiWlhSOUwxaGg0Y2d0X2N0Rl9KZ0FtYVBjTmtKczFVbGdDT195dlZnU2hOa0ZPNlNkT01fRjg1UnZQZmN2TzRyT0VOT3ZxLVBfYXR6TVhPQVlkSjJMeEYwMGowT0VsTUVJQnpUZU5SQWZTYlZRYzFKMw?oc=5",
+   "sources": [
+    "Tennis Tonic"
+   ],
+   "published": "2026-10-06T16:35:04Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "56ca1c1c2d31",
+   "player": "Carlos Alcaraz",
+   "type": "Injury",
+   "reason": "wrist",
+   "confidence": "medium",
+   "headline": "Carlos Alcaraz addresses his team after first ATP title since wrist injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR3VHaFdseC1sb2hzcEFDUWpqTDBaNE05WU82OXl6RHZyY0NiMGppc2kwMGpUU281VWxRbGZfRGRDN3hzZWlYaFQ0NENEczIweGtjRzdtLWpDVl85bE14TktpeWNRLUZIZ3ZZYl9SX3F4c1B0WEh6U1JUSHlMM1IxUjBIUmd6T25tcjI5RnJwY0poTFZ5ZWFkYmxTV015LURQNjVEaEFoN0hGbmdmSGhLRTRRbnNNRVcxM2pidU5pMzdKTGpYMFZzUGkwX29HeEJuSURKRjAxdw?oc=5",
+   "sources": [
+    "Tennis World USA"
+   ],
+   "published": "2026-10-06T16:00:23Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "e43ce7be2c87",
+   "player": "Alex de Minaur",
+   "type": "Injury",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "\"I don't feel great\" - Alex de Minaur offers brief injury update after first ATP retirement in over nine years",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZVd4WlBfSmNUTkNxQkk2aUNPbDhpYW9yU0dIOVRlTFZ3dk1HWWVEeDBiNGh6OHhtQVpwTE1QWTBaQ2IwcEpER3o4TnhmRmktY1Q4cXJSdmk5U1pURkJfQjFOYmtpRFMwWFRzQklVVnhvMUNNeGtCX0ZPXzRLeEZsWXo1ckxSUzdaQUE4Rm8zdnBiblctMnV1RDJWS0t3dEREak5WNnJJd0hWNmNPcV9qTHhQTURmS0xvNW94VThnRVRabFhoWnRNTDluLW83aDNIZXc?oc=5",
+   "sources": [
+    "Tennisuptodate.com",
+    "Tennis365",
+    "The Nightly"
+   ],
+   "published": "2026-10-06T16:00:00Z",
+   "found_at": "2026-10-06T22:55:41Z"
+  },
+  {
+   "id": "eb0649808d75",
+   "player": "Highlights Novak Djokovic",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Highlights: Novak Djokovic claims seventh China Open crown after Alex de Minaur retires injured",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeC1OdFdJd3dCMWwzNmNxQVBYTW15aGJaR3RvRWtWNHNkTmEzcXQ3b3BvTHFHczJpMDBJV1lXeXg0UFNYQzloMVAyMmlRdXBnbTF3bU1xLWZIYThVc1JLY1ZmUkhDWG45VWNSVjEycUt5M3R1cUltaDNCTjA2U0ZHODhfaWNOYmFMNDBzVVNDSzVTRER4NUtWV2U0WkY4RG9GZE1CN1NBTDdLMDEzVEktTlhrZXNjWllqaEN5Z0hTU2JSWFY5dnQycGNFMmhLNU02YUg4RVNWTDNVUkNVSDRB?oc=5",
+   "sources": [
+    "TNT Sports"
+   ],
+   "published": "2026-10-06T15:53:12Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "d56b8a16eab6",
+   "player": "Jannik Sinner",
+   "type": "Injury",
+   "reason": "knee",
+   "confidence": "medium",
+   "headline": "Jannik Sinner shuts down 2026 season to recover from knee injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTk43aTJqOWNBcEFNSGphbEczMm1WYTFVaGZQbzRfdlQwSzFJdDRyRURoX0NfbUx2bGJuVm9walpCNUYwUUpoSEFNNDg4X0NLZ2E2Um5yOWdlZTdCZjJFcDFmSTZLdmdoOEg3LThiUFVXUklKaGx4VVFlMlFHVVdYN3RxeVBSUFN1aXlRZjAyQUVZX3g5SFFEUDQxMWxMN0ttMmJseVJHbzNHMXZ0ZkxvM0sydi1HcU9aSkE?oc=5",
+   "sources": [
+    "USA Today",
+    "The Independent",
+    "Yahoo Sports",
+    "Tacoma News Tribune",
+    "India Today",
+    "The News Mill",
+    "SABC Sport",
+    "Olympics",
+    "Awaz The Voice",
+    "Tennisuptodate.com",
+    "The Sunday Guardian"
+   ],
+   "published": "2026-10-06T14:56:00Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "4c2b302e209b",
+   "player": "Alex De Minaur",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Alex De Minaur Reaches China Open 2026 Final After Hubert Hurkacz Retires",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkJ1OXp6cTRtWHlxWFB1aG1xZHY5bHlVS3dxODlBckhndWZ0enBzRVExTDRWVjJ4NlhBc1FOQVNFckl3YlRZcjBUd0ZQc2J6VGxOdHBfTjlaT3R4cHdQRHdmR3JfYjktRHlDZTV6akNZd0FfQUNDZ3h4TDVKeVFPa3EzSml6NXRmTzFQQ0t4YS1sMFlONXVJMksyMmZqcVJYWGZZak1UTVFFZjRNOUxjS0FCemJVWVRwcDVCWXdfZ25Nd9IBzwFBVV95cUxPMVozbWlQQUxGVE1scG1JQUtnNHpvc2Etb2xnZDNuSXBUeU1ac2Q0VUt6VXRyS3ptbDhuWlVRQm5ENWRYcl9SYlZySDA3a1ZjTENOcmxlSnRsdkhfM0Vkb0gtSW16NUxJRWlyaWRyMzRDMWx2UEE1MFpITWRYZzAtdlJxWVQ3dTBaM3dFaUduVkxhekxoQ29FTWtzbFJOZWMzNmxVM2Q0Q2RURDY0Z0hyUjhibjJZUjZjUHkxdnhOUDEzTW0wSndZQ0F0MXVxOEk?oc=5",
+   "sources": [
+    "Outlook India"
+   ],
+   "published": "2026-10-06T14:36:54Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "b7b133deb48e",
+   "player": "Means",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "high",
+   "headline": "'Means more than just a trophy'",
+   "snippet": "Novak Djokovic claims the 102nd title of his astonishing career as Alex de Minaur retires injured from the China Open final.",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/crkg7d815e59o?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    "Djokovic claims 102nd title of career"
+   ],
+   "published": "2026-10-06T14:33:32Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "261f16fc1e8f",
+   "player": "De Minaur",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "high",
+   "headline": "De Minaur retires injured, handing China Open title to Djokovic - ABC News & Headlines",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DMmxvcnhfcFVKN2t1anY2blphYzdfNWNTTzV6dS0yWWtNLWJyb1plaVZOU2hYNDFZUXNxU3FMNnE0elloR3huOXdtSmYxV3RmOE9FZXlFTlM1NzNCWWdwdDRLdnhjTGt0UkhFSjV1RU5TNzJxaUFEQg?oc=5",
+   "sources": [
+    "ABC News & Headlines – Australian Broadcasting Corporation",
+    "Reuters",
+    "News24",
+    "Geo Super",
+    "ESPN",
+    "Bozeman Daily Chronicle",
+    "Toronto Star"
+   ],
+   "published": "2026-10-06T14:24:31Z",
+   "found_at": "2026-10-06T22:55:41Z"
+  },
+  {
+   "id": "607420cce184",
+   "player": "De Miñaur",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "high",
+   "headline": "De Miñaur reveals the injury that forced him to withdraw against Djokovic",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFKUXNIS0tNWFVwLTVlbnQwOE82LXRuTENMUHN3TThIeEJzc3NwVzd0UEVwdGFXWTRpUTQxUFU4aFBJX2tyeDdxWU12RFdGdG14TnY4ampNSXNlTllLZHRtLW4xdUZrMFktT1Q3NUJxLVZXR1JtekVUekNaVDd3MFREVlg4WVVNd3dBcU9XdVZGSlI1YmZUeUNLeHVDYjRDc1dwVFd0bndXbUVNd2tsN1c0aw?oc=5",
+   "sources": [
+    "Puntodebreak"
+   ],
+   "published": "2026-10-06T14:01:42Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "35e003aa6e89",
+   "player": "AGAIN Djokovic",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "CHAMPION AGAIN: Djokovic wins China Open after De Minaur retires",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVhWRnVlUFpIV3VwenVOU2YwRUJ2YlJMQ0ZObEFnSnZreGRUQXNhLWdfdzM2YTFCTFdja1ktZ2FBeXd3Nlk1ZUtlSnlIQmthUnNUWkpGaGUyOUFuSGgzV0Z3ZEY3M3dhMm11dGdUVzExazBwVTZuOGhRT2R1aGFZTERPOTBkR281U3hnZ0NFWU55eXhrVjdhVnhORGgxTXg5LWR0X0hrV2gzRGNQX1A4Q2puWkNnWmFRVS1ZWkE1VjE0ZGNHVGdzdGppSWlMSERR?oc=5",
+   "sources": [
+    "SuperSport"
+   ],
+   "published": "2026-10-06T13:58:37Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "745652bc551a",
+   "player": "Alcaraz",
+   "type": "Injury",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "“What a journey since I got injured”: Alcaraz defends Tokyo title against Lehecka for first trophy since injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQXgwTmJuVDZmc2gxbU5FWXE2NFJ6aFFNYVRWNmhveGxFdkgyWnA2OU5vOEhzbks2LU5GbEhHN0hGNFhfVFVjOXhhV2c0aGJLYU1NNWkyWXJOVGJqemh0b04zRVdBNThZQVdUWDY0S01NRlE2RFNCS1hIVXJFM1F4c1RlVlVuaGd3d2R5SWJyVDRONHF4WHg5dmpMUXhHZDdjQnpvMnNLenEtcGYzOEhDaTJMX1lSRXdxQnpTSkFNVmgzNVBaeHdlZTNmY1hsQ0RkMEdwTjFRZkM0WTgxYXhfY1psTllYbzlm?oc=5",
+   "sources": [
+    "Tennis Majors",
+    "Flashscore UK"
+   ],
+   "published": "2026-10-06T13:45:51Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "7b194d97ff82",
+   "player": "Novak Djokovic",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Novak Djokovic has message for Alex de Minaur after he retires with injury in Beijing final",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkpSZGNWcEZSTFpFU3NHQ0gzMXBoN1pRZk1WN3JwVnVnb0JLODVUSXVmVy00cXZOYXdveHZ2UHYyZnRLWFZMYkFIb1hnOTJnT0M4VTRVNTZncDdYVzdFX1FPRG9tRFhLbmJXRllyckJoODRPeW1yNlBxOXVFWkVlcy1TR3kwYm9XOW4zeFY4d1VCaUp5QUItRWF4dko0SzJYMk9QOURaN2lTZEpyWk0ydVQ5M0Vxdw?oc=5",
+   "sources": [
+    "Tennishead",
+    "Citi Sports Online",
+    "Livemint"
+   ],
+   "published": "2026-10-06T13:30:00Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "b9b90a65ed7f",
+   "player": "Tennis-Djokovic",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Tennis-Djokovic wins China Open as de Minaur retires injured",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVNSOEdYbjVJNWk1ZGh2eFk4bW9yOVVFVDcyLU5UQ3JmbE5EaWxxOFBfc2tNOWkwdmRQSVE4LWp2VUZmbndkVzc0YllKTHo2M3hmc3R5MWhXUW5iYjJPMm9XMGVZcm15V0pmY0QyVlo2clM4bmpuMjNNeFJVeUFpcTduRmlYMEtZVFZLMXkwbkZybGdhcDBBT3ppWnRMYkdYZ0w4b3dUUjBQV2NHQXhuendXdDVCM00wQ2l2YnRzQTJpMjF2Wmp3V1pLTFBzX0xTTGRsVGtOWTZLQzhTMHBEUmo4SjJjcHI5R1VtUnpPdw?oc=5",
+   "sources": [
+    "The Lufkin Daily News"
+   ],
+   "published": "2026-10-06T13:19:57Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "10ac3340c9ed",
+   "player": "Novak Djokovic",
+   "type": "Injury",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Novak Djokovic vs Alex de Minaur Tennis Highlights: Djokovic Wins China Open 2026 Final After de Minaur’s Injury Retirement",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVGF4VnV5M2ZLRXMzNzVlQWNEZWxTdEVTZGlFQTV5TmZDeDM3alNpUlB3QzlSeDNrTXV4T0N4NW42RGxudTB5VEtHUjkzNTBORWRHdFF5U1ZZMVJqTEt3MTBqVk81aXdJYmVwbldYRkR1X2hpN3RRMmFLcFNvcXVJOFpreXF1OWdSRnpRWUZJZnpSNzRsdHYtTURiSE13RWV2OXJyVWl0ekhINHFEYUFETHVQaHR4NUVVdUNMVU1uYlNmVWMta0k3Vy02ZGhjYWJzSXo2RHlrNWczM2Rjc093d2s4dGNLV2VrdXNLLXFyd2F6ZGNuSlJhWHU3QdIBgAJBVV95cUxOLVpOcmlvRFZpZ24tWDR4YTZXRFprN1lHZ0p6MWRKLVhGbjY4SzV4d3g2M0hZTDhsZzIxbTNBOWsydDBwenFJTE93U1NQQk9fRXd4NmZkNm13b3N6SlFRU3l4bzdvc2FhVnAtUDdsVHA2Z241SDhPRFdKMV8wTVJNUkJiUEdmZkZXNm93X040bXhUR3VSQXBRS0ROTy1wSFpmNDg0a2FGRkZVOFEyN3NpV3FWUXp0bTlHNWNyU1pSR1k1ZVNzYlNIWGZKNHdQYUhoT3JYUW5fOFFZdkltZUFJQWhWN0pVSmJzSkRVaVZzRUJMalhnSkJJb283b0NsZ2t6?oc=5",
+   "sources": [
+    "The Sunday Guardian",
+    "Tennis World USA",
+    "Tennis365"
+   ],
+   "published": "2026-10-06T13:16:14Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "682f9f075556",
+   "player": "Djokovic",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Djokovic wins China Open as de Minaur retires injured",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa20zNEYwUEJSQjIxX09ud0ZnLWNHVjBWZ2lvZzVLRDhGN1JJOVNnckxLVkFuYzRmaFFnS2ZXTEJrWkdnNTJGMDYyYXFJMm95NU93TzM0a3o1Mnd4VjYwRkFoZkpwaXVHYUpKYnhXUVNuOXFkT1RsTmIxak9KbEp3c3h4c1dsQUdMLUdPRGozeGZacDJmd3lQLWRZRldGRzdjby1JcXlXTV9kdw?oc=5",
+   "sources": [
+    "The Straits Times",
+    "Al Jazeera",
+    "Pragativadi",
+    "BBC Sport tennis"
+   ],
+   "published": "2026-10-06T13:09:00Z",
+   "found_at": "2026-10-06T22:55:41Z"
+  },
+  {
+   "id": "7c3282cc3634",
+   "player": "N Djokovic",
+   "type": "Injury",
+   "reason": "groin",
+   "confidence": "medium",
+   "headline": "Beijing ATP Final: N. Djokovic def. A. de Minaur: 7-6(3), 0-1 ret.",
+   "snippet": "Extremely sad ending. Its apparently a groin injury. Hope Demon recovers soon. ❤️‍🩹 submitted by /u/padfoony [link] [comments]",
+   "url": "https://www.reddit.com/r/tennis/comments/1wz1hmd/beijing_atp_final_n_djokovic_def_a_de_minaur_763/",
+   "sources": [
+    "Reddit r/tennis"
+   ],
+   "published": "2026-10-06T12:37:30Z",
+   "found_at": "2026-10-06T22:55:45Z"
+  },
+  {
+   "id": "0424dabad373",
+   "player": "Krejcikova Withdraw",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Wuhan WTA 1000: Osaka and Krejcikova Withdraw as Zheng Enters the Main Draw",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnVBRHctTzVzWjctd2ZWRDZwR0JkMnZfbVEyQWVqUTRXZFFlZnd5bFZLdHJ6MDRvWm82cjZ2X0JldGlzazUzZFFMbXpvVk1pXzJKamc5NGNyRlZtdkFjWWZoU0pNMVZZbWVzUlNaRTZMa3NTMEpDQ0FVcmFHTE05Qkg2QnZBVWR0anRkQ2VB?oc=5",
+   "sources": [
+    "TennisTemple"
+   ],
+   "published": "2026-10-06T12:35:18Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "58e1ae89e717",
+   "player": "Sinner",
+   "type": "Injury",
+   "reason": "knee",
+   "confidence": "medium",
+   "headline": "Tennis: World number one Sinner will not play in 2026 due to knee injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDV1WUQ5dFhGQk0wUERIem1TT25rektMT3drZUtmanRERHFaRDZCWUtkckZEODRPQWllakRXcDJQeERNSjdyVVkzOUpMM3A0blllX21Zd1AzelpZNFpOcWZlUVp6dUxzVkRGZTllaUNvT3YzYmpDOTJDN1R2QXlvdG5wSUszeFdlbnBpZ0JyWi13dDhkbFB1UmZNa2R0aGlsdVlOWmVCNDF4N0lqYlhrMk9rVlXSAboBQVVfeXFMT1hEUVZBSUFvX21HbmFXd2VNUVpjcmJMS1Z1Wl91LUVmaDVMaVBEZmdzMEhhTmtwejFlMU1jZDZkajFha3VKYktYUUM2U0kzYTF5S3JVN1daRnpMNEdTSU1NRzB4Q0lYUHZIWV96UFVMMTBJd0J2dGhJeU0yVkR5aHctM0JnMjExNHJYU3JFSUplLVljU2RfZ0lrYlI4Wmttdy1oSTBMYXpXS1NiQXZCUEJHREN6V1VhcnNB?oc=5",
+   "sources": [
+    "Al Jazeera",
+    "Gulf News",
+    "Free Malaysia Today"
+   ],
+   "published": "2026-10-06T12:17:51Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "b3301f97963b",
+   "player": "Carlos Alcaraz Spaniard",
+   "type": "Injury",
+   "reason": "wrist",
+   "confidence": "medium",
+   "headline": "Carlos Alcaraz: Spaniard wins Japan Open in first final since coming back from injury lay-off for wrist injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZUFZdTVwMHRIWjAtME9JUWZ6OGNreWZLZXVIWHdSVk5DYjhXNGtpU0NZSXFDd3RJb0FMZXFNTHBHSG1UNDN0N05iYXdRSlMzUlVjMGJXRmhhdmVzWFA4dV9YcHNUNTlYX3BqemdkVmEwdW12em5mSmtrNmJsU1lpT2Qyb08wNFFOVmdOWFMzTm9lcFppVlNES0NNREVwVHYzQ1RvN2dKRmZ0ZENPeWYzWmpPMlAwaGpIR2hfNXV2c09pSWlLSTRsLW5wbGVheXBmTjI2eEJuU19yVGhTS1VNMGhxbGZSY2EzNldiUg?oc=5",
+   "sources": [
+    "Sky Sports"
+   ],
+   "published": "2026-10-06T12:10:11Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "d4ac54e37976",
+   "player": "Withdraw",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "8 Players Withdraw from ATP Shanghai",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1g3Mm5uV2tyNF90YWkxNVNFejN4TEtYcEl5Zy1jcFFfZU93ZWxhLTJvRWxCazlaUkxVQVVnS19ETDAwQ3hzQjlsZEhJMDgza09qYU5vS2JVTllrRGxiQW1BVmZFLU1kU2dRb1FJYTh3MDNucXFWN2cxT3I2bTZEUmpIOHlERzg?oc=5",
+   "sources": [
+    "Yahoo Sports"
+   ],
+   "published": "2026-10-06T11:45:24Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "97e2612a8043",
+   "player": "Sinner",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "low",
+   "headline": "Sinner to miss rest of 2026 due to injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5VFNWVG1LX3FWS1N5SS1wakZ5dzE2Qlk0eGlhZjdSSUF0M1htcWM4b1RxREdUSW5tcFU5b2FpZ2NScTVKRjZkTVJLWFY4QjBNRE9EVWk4UC1ja0EtdGFpREFhd3lFYUt1X3hVdGVzYnJWdEtYSnJkel8xUQ?oc=5",
+   "sources": [
+    "ATP Tour",
+    "voz.us",
+    "Sportstar",
+    "BBC Sport tennis"
+   ],
+   "published": "2026-10-06T11:44:20Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "c5fddf99b91d",
+   "player": "Novak Djokovic",
+   "type": "Break",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Novak Djokovic confirmed to keep two tennis records after Jannik Sinner ends his season early",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFdIN2xJY2tLVFh6TXZNMktjSEtmTm55YlhKSjJxMEs1TXdQWFh5N0lWUW93emZrOU0yM25LbmpaV00xbU9tMnhzeTZyb2RvdW5adzN5c2NYd084X19EaURhbUpVLU8ySElKeUhrWXNuOVljRWlLeExuODVGb3hxMmczemtZQ2R5alphRUFsVHh6R0xDeUYzbV9hbGNZcUY0QjVMQ01R?oc=5",
+   "sources": [
+    "Tennis365"
+   ],
+   "published": "2026-10-06T11:27:06Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "bbddd3b87291",
+   "player": "Jannik Sinner Ends",
+   "type": "Injury",
+   "reason": "knee",
+   "confidence": "medium",
+   "headline": "Jannik Sinner Ends 2026 Season Early With Knee Injury as Zverev Eyes World No. 1",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUtvSks3Yk1Bb3BzN2liQTU5T2EwUDJ1anBuM09iUjRKdGZPRUl4RDBZRG5qamdfV3JHNUczbUUzc1JndnRQS1Fjbk8tUWhlOHRfOEtTaHk2TjZDUHF5bEVuZnllS2JSa3RUdlk1a0x5NU9uVWFQczdaajJvblhOTV8tRzNHQmpPU01QM293UnpnM0hlUk5oTmdvWnRURU9Lc2RNTw?oc=5",
+   "sources": [
+    "The Trumpet Newspaper Nigeria",
+    "Yahoo Sports"
+   ],
+   "published": "2026-10-06T11:18:24Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "40da8e474e93",
+   "player": "Reigning",
+   "type": "Injury",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Reigning Tokyo champion Alcaraz into semi-finals after Shapovalov injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGYwcEgzLXpaUW01LVJLYkRIYUtzUDd3QVVrZTlKVWExOWY1NG5odTRZLTRST3hWQjZuak1waWJ1YktDQmh6RzN5dDJzeXFVRy1EcWRYQk01aDdsRlpyY2xURGE2a24xbVZJdVBvZVpJREJ0NjFiS3FGenRFU3BJR0lCbFdEWHp3UThXOXJRa2k0bHRZSm50NnhiSHRnekc1MzQyU2JGNWRGSm9tbTc3NFRDVGUyLUhFNUZpdkJ3SFVlQzI1c19xVjY0Ry1aRDRtMVp3cHlZeVU?oc=5",
+   "sources": [
+    "Flashscore UK"
+   ],
+   "published": "2026-10-06T10:30:59Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "b4672dcce4c1",
+   "player": "Jannik Sinner",
+   "type": "Withdrawal",
+   "reason": "knee",
+   "confidence": "low",
+   "headline": "Jannik Sinner: World No 1 to miss rest of season due to knee injury and has not played since winning Wimbledon",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRGNWYXgwWFhWOVF2R3pucHBjNEtOX01XQTZIRjNNb3htWV9tR0paUGdZdFBnRnBQVmhlUDBaMVE3UU56UnJrMWpRRVVLaS0yU19aQVhYNW1HNV9saGxsMUJodEZNYklTVGJjWGZvSWxUeDhEc0lGb1VNU2Y2YmdaTThHOFdfZ25lLWlCTlZJdmhwcm5oNFd3NS1jVmZjbEN2UVBFSWZRLUgyVVNURjZRYUxpYVdXcWcyTW15bkVfQ2k5T1pfWHV2NTJIVzkzZkhDNWg0TS1YNkc0MVlKcXVjdVpuTWQ3N25QendRMA?oc=5",
+   "sources": [
+    "Sky Sports",
+    "Tennis365",
+    "news.bet365.com"
+   ],
+   "published": "2026-10-06T09:55:10Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "e54a027699c7",
+   "player": "Sinner",
+   "type": "Break",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Sinner announces his season is over with No.1 ranking at risk",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUVBSHFWMmY1aDcxc0RWa2NBOWItQjZIaHJnTjlSTnJqTXR4VGJDODhyVUVCeHc5OE02akw0Y3R2ZW1QbDllZDJfVVhJY2t0SHNBaTRUY1RCbGNfaWhOaW5WT2JXODJCb21rVGktcmhoemNlaXBOMHpaZlRKSDJzd25LS19OWWtoaXo0cEdLWEJjQWdxWXlrZjYyVDZ1OVZrUFB3WUpDN1l4d0gwVS1lY1FndkI?oc=5",
+   "sources": [
+    "Nine.com.au"
+   ],
+   "published": "2026-10-06T09:51:39Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "154b02735d08",
+   "player": "Annabel Croft",
+   "type": "MTO",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Annabel Croft slams Medvedev's medical timeout against Djokovic: \"I don't understand\"",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1lLSXVRY3BJRVBwamNldzc3TE9PcnZZMHBGOUF5anE5Y3pjdVphbjVZVVlOVUI3a2pPOFRleDNPWHhxUGNBa0JETlBuRENmN0FkMGcwbEltdFluT2ljSVFrSmFYZ3FpbHpIMUpVbXMxT1FuRGM1MjNqOVE1YlcwYkh5bXowOHNXTzJj?oc=5",
+   "sources": [
+    "TennisTemple"
+   ],
+   "published": "2026-10-06T06:49:38Z",
+   "found_at": "2026-10-06T22:55:41Z"
+  },
+  {
+   "id": "a1480d1c69a2",
+   "player": "Rhea Ripley",
+   "type": "Break",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Rhea Ripley spotted promoting new project amid WWE hiatus",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb05BTVMyZzFxZllTeVl2ODRfblJZbzVHS09vTzRrQVlKQVVjTHFQQTFtaFdTNDJ6TWhheVZvRjkwRzBOeTNRZ01pRW50ZHVPZ0R4QlhhRnBkVEF2Z3dtMlpwM0htTlIwNXlhdFRNY3Y4bFVVRmljNlZubTl3TURFWnMwMDVtNTl3WXNpUXVuZTNVNXYwMllJQUJR?oc=5",
+   "sources": [
+    "Sportskeeda"
+   ],
+   "published": "2026-10-05T18:59:00Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "abc44b2f4b2c",
+   "player": "Top-Ranked Rybakina Ousted",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "This Week in Tennis: Top-Ranked Rybakina Ousted in Beijing, Withdraws from Wuhan",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFZqUFNQU3FfM2g5bGZTdTJsaHNST2trZE1aRGtISkJwMkQxbl9vMHU0Ul9iYmNadndPbC1fVm53VXFYTlRia0wxeS0xTjRncEhIM0ZxWXBRclRiVWt0bDdxVFVGUmpfeHM1T0stMHMtN0Vhc3FaUHh6V3FlMW16N2RpMVFBVVdiVVZ0dzRqcDFGd3hkd0w0LVlZdDVjSjJpdkNISnViRHcyMFpzaHlNdmxxX3Z3TFYtc0xVOUJlVQ?oc=5",
+   "sources": [
+    "National Bank Open"
+   ],
+   "published": "2026-10-05T17:00:00Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "c9bb4a5a2485",
+   "player": "One Elena Rybakina",
+   "type": "Withdrawal",
+   "reason": "foot",
+   "confidence": "high",
+   "headline": "World Number One Elena Rybakina Withdraws From Wuhan Open Following Foot Injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjhDR0dBakFpNGMxWHVaaENVTHFXbm9DZnZpQUZ4RElOc1NVUTJONE5WU2JNYzdod3pqemltTG0wV0lLYmFwQjh6SEdxTWkzaXczRDUwZVBEdWd2UHFmVzNNVkdJcEUyMTVNYjZGcF9rYnlULW4xTzBQZzlZb2hVemtYQ2Q4Q2xOYVpTOWFoYl9URDgyTEpNOEhZLUVnblRpeWxoNGF4U1dLZUxneW5oVFp2LV9GaUVu?oc=5",
+   "sources": [
+    "Fanatik"
+   ],
+   "published": "2026-10-05T15:50:01Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "2da9babb20fe",
+   "player": "Rybakina",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "No. 1 Rybakina Withdraws from Wuhan",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iM1ZTMDRwcVZIUHdVcmNsYlZDcXlGY1hJRDFUZGRkTXk5ckY3UTBkaDNyZ2U1RkxtVHNnVGk3d2ZGeEpwSkZoYUJyeDdMM2Fpc3N6NzNybHliYjB4RkpoSlFPSF8yQk0t?oc=5",
+   "sources": [
+    "Tennis Now",
+    "Tennis World Italia",
+    "Flashscore.com",
+    "The Statesman",
+    "Social News XYZ",
+    "News Today"
+   ],
+   "published": "2026-10-05T13:53:47Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "b83ab081a1d1",
+   "player": "Hurkacz",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Tennis player Hurkacz withdraws from Beijing semifinal due to injury — Interia Sport",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnBOYk5KeFFvLVZDckhNaVBOTnZ0X3g1eFpmQ0g1WnUyQWhqNnRad0hPNVFCOHEtZUFVMlVseVE1RzVsUmU5UDhKblB3a3JHaVQ1RTU4TTdGXzQ5ZmNDMGJyR3NQX3poRWxkSVpYX0hUMXBTWWJvOFFRSld4Wmc5cENyV2l4cVdKUG50cERsaXMtaDVrZTZ1Wmx1a3JyUWVp?oc=5",
+   "sources": [
+    "UA.NEWS"
+   ],
+   "published": "2026-10-05T13:03:15Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "d8754abdffa9",
+   "player": "De Minaur",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "high",
+   "headline": "De Minaur through to China Open final as Hurkacz retires with injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGZLNTBoUWQwZDFuV3BjMlQzUThLRktVcmZQNkw4YjhNZVRnZC1oV0R2MHB2N0k0TkMySEFZMS1BZGZDeU93blFhbGl6U2xYczU0RE1JS1NHaXd6d25QWV9VSGh0UFZJMkt2TjNyTVR2dDNBYWh0ZU5uMWFvdGZuSWdXN2NZU2dZZjE0Nk9pVi1OQ1pNNE9FWmtMZWZZd01pa0dTX2MyRUFnZw?oc=5",
+   "sources": [
+    "Sportsnet.ca"
+   ],
+   "published": "2026-10-05T12:24:00Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "0da67a5ce17a",
+   "player": "Elena Rybakina",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "high",
+   "headline": "World No. 1 Elena Rybakina Withdraws From Wuhan Open To Recover From Injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjRNVXZCeERhSzhxN29XdzF6WkpIYk9aVzljeTN2c3BuNHhDZm1qVlcyTjBBd1draVF1WVJranJkQWF6b21Eenlhem9FeUhIVy1nYml5V0JQa0N3bEdtYTU5bHJUN0hNUVhkNTEtcC1LbEJQMkRURjJFU3lJNE1Td2hPb0ptZ1pXVWc?oc=5",
+   "sources": [
+    "Sportscape Magazine",
+    "Kursiv Media",
+    "Tennis365"
+   ],
+   "published": "2026-10-05T08:29:39Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "b628103f8fa8",
+   "player": "Canada Shapovalov",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Canada's Shapovalov retires from Japan Open quarterfinal vs. Alcaraz due to injury",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQQWxwYzRwLWdXbUplcWlBMFRqdTd5b2F5Wkt5QlpTSzVnbVlqa2pVZEhmR2lJeWg0NHN5ZjVHaTJCSDBMNmdabjBrazBlSllRbVI4a3RmU0czMDlma0t0cFlpay1RQTRQNURyYQ?oc=5",
+   "sources": [
+    "CBC"
+   ],
+   "published": "2026-10-05T08:24:04Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "5bd1bd4e5778",
+   "player": "Notable Withdrawals",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "WTA Beijing Tournament Begins Amid Notable Withdrawals",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXBXRVVPR003SUM1UkR5ZzRHTDc3Z09iQTBMSWp2NTNFenNBSnpRNGhnenNmOGJNTVBtVkhqa0NLekNGdlpWMERMb2ozQ2dZVFhiTGtueVJ3c1ZxNUM2Ymk5SFI5VzU4UjhMNmF0ZTh2amQyQ2lVQzgzb0xqZy1WZ0IyYzJtN2pPdzBj?oc=5",
+   "sources": [
+    "SSBCrack"
+   ],
+   "published": "2026-10-05T06:59:42Z",
+   "found_at": "2026-10-06T22:55:43Z"
+  },
+  {
+   "id": "f23b1d03d2f1",
+   "player": "Elena Rybakina Issues",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Elena Rybakina Issues Public Apology After Withdrawing From Wuhan With Concerning Reason",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMnBvYWswRGNXcnR3emlEZGJJUjF3V3FTTlFWVFJfN1otc19VU19ZbjRtUUtCVDdNMUhCMVhUMnZ6R0RHU3RfZk9lMnlxNTQtN25CZVRqblJ0WENNeVNjaXFSMkx1SG5ndmxSSTJSTzVVOFMzSXI0eTcxM2NKbkFQM0pEcUFLVy1QZDQyYkpndXM3NzExVGszN2s2REh0cWVlaWtDMC16eTBCeVctdmRlbEFQRW9fOFdGWmVIbkc0Wm5zM1RoaTBjaUo3RXBHN3A2?oc=5",
+   "sources": [
+    "EssentiallySports",
+    "Yardbarker"
+   ],
+   "published": "2026-10-05T02:41:00Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "fc72d9b68ef2",
+   "player": "Tennis-Rybakina",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "high",
+   "headline": "Tennis-Rybakina withdraws from Wuhan with injury after China Open exit",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU250bWJxVUJlZzFwS004eloxT3JxUEpwaTJpSURiRFBLcWRER3RTUEUyNjVJQlF2d1k4SktzVjhhR3lCZ2EzSS02MVZsMVlQSlpDa1RkQWJLazJRam5nalFzbHBRdnpiX292RUg3NXNrU2RlQWw4cXNoYVNGa21wNFAzM2NDMUd2NVlUNlE0WkVneFFuZmtfNmUwZkhsNWY5blJseXlfUQ?oc=5",
+   "sources": [
+    "1470 & 100.3 WMBD"
+   ],
+   "published": "2026-10-05T01:33:35Z",
+   "found_at": "2026-10-06T22:55:42Z"
+  },
+  {
+   "id": "09fad5b7d6d1",
+   "player": "Rhea Ripley",
+   "type": "Injury",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Rhea Ripley's husband shares wholesome update amid WWE injury hiatus",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHA3bFdQY1JMVUpranc3aWI1eDRJRDdUeDYwTkpSWU80VENYYnRnVmZEUHNGVjdfRTZMbDRfVjNsZVItczJyOXZ1bGhKX1ZialVzVUx0ZE81N1o4ZWRybVJSQTNwZlZ1SE9hNnJ0LUFZMy1zUURMb292ZTdpNmdNZzlHVjIzTkY3Mlk5Q3M2eTA4ZTBfREZkZTZxS0NIUWJTdzFnMmpaU1g?oc=5",
+   "sources": [
+    "Sportskeeda"
+   ],
+   "published": "2026-10-04T21:18:00Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "49c94c7bad02",
+   "player": "Rhea Ripley",
+   "type": "Break",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Rhea Ripley spotted with surprising new tattoo amid WWE hiatus",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEl6MUlFTExsM0lfU1ZRQXMtZFJwWkNZSmd3ODFjcThaTXpVTXJqNWVDbVdXYmpkbVlaZXkycmpPalNXanl4VGg3ak5HYXpjUkVGdlVZNWkzMXoyam11YVg3cDNpckU0eFpERGZndVVQV0dIQnJQdE52YVhQeDVfVVpPZWhwUFVjREtZNE1vcllwbTRxRkNpUmZR?oc=5",
+   "sources": [
+    "Sportskeeda"
+   ],
+   "published": "2026-10-04T19:18:00Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "6111573b7b6f",
+   "player": "Drew McIntyre",
+   "type": "Break",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Drew McIntyre shows off incredible body transformation amid WWE hiatus",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGljNkh5NmE0RS03MUR5ZlR2SGRxLXdqNWRvYkpMYXE3emlzbVc4Y0NkLVQ1NnlOVXoxbHNydkMwNmlUNkVraUNuVGdlMGZzbFZhYVBuVW1tYjR3bXk5aE9Tb3JWbExGTFpobjZ2UGdUSU96VmJxZWtLZFpBbTVzd1VwblNTZW5rNW5feHZtaU04SkFURXg5c3llcTVvRi10RzJZZzB3?oc=5",
+   "sources": [
+    "Sportskeeda"
+   ],
+   "published": "2026-10-02T21:58:00Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "f55969fec817",
+   "player": "Jim Ross",
+   "type": "Break",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "\"Not sure if it's cancerous or not\" - Jim Ross shares extremely concerning health update amid AEW hiatus",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXRoNU03RFBhMlRXS19FOWRhX1JDRHpmUFlocmdmY2Q5RXNnUHN3VGxTSFFaWC1rTXREWC1RSVlQYmNnbnVSTldHWFRPZ3p6cUx5UHpfNEdEbGIxVF9IN193bzFYX2YwdHZ2NnlxajRFODN5N3NKTTloeWktMEwxRkZKamwzTkE0dlZyWjJHT0h1Y21fOHBkd3NfY1lMRGRZOExESkwyNi1fTGN6bU1DZ0ZVN3MzQTlad09GSHVBS1YyNjBy?oc=5",
+   "sources": [
+    "Sportskeeda"
+   ],
+   "published": "2026-10-02T01:33:00Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "80033275ea61",
+   "player": "GB Kartal",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "high",
+   "headline": "GB's Kartal wins on WTA return after six months out",
+   "snippet": "Britain's Sonay Kartal wins on her return to the WTA Tour after six months out with injury as she beats Andrea Lazaro Garcia at the China Open.",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/ck4glg4x66p5o?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    "BBC Sport tennis"
+   ],
+   "published": "2026-10-01T10:52:00Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "78c81e42fe5d",
+   "player": "Unknown",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "low",
+   "headline": "'I kept fighting right to the end'",
+   "snippet": "A tearful Kei Nishikori says he \"kept fighting right to the end\" as the former world number four ends his professional career at the Japan Open.",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cwe8e81n3egeo?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    "emotional Nishikori retires"
+   ],
+   "published": "2026-10-01T09:33:27Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "362b001bd42d",
+   "player": "Did Emma Navarro",
+   "type": "Retirement",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Did Emma Navarro Retire? US Tennis Star Reveals Health Battles And Reasons Behind Quitting From Ongoing WTA Season",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRjlkY3RNUVdFRWlFSHpMUlNtakdfQ1Q2MnRIbUd0RkFSVjdJMkgwNUN2R1NfRmxLNVhRTDhGZGgwdmdHTi1IYmRRTFpIaE5ORXZPa1IxakpPTmpxN2hKVGtzUklUTFJ6dzJzYV96SThkMlM1Z3dJcHRWb2Y4dkRSaTRqQ0FycV8tYUhPTDNGQzVxSmtkWGtidXRzNlB0alJIOHdGcHZhemxxYS00bVBJcWh6cXhXRG1KUnh4REh2dkhoaGczVHVIRWlFRFg0TVRaRVdiVG5SMXdDV2tPeTgzaS1vMFjSAeoBQVVfeXFMTi1pdzIteWo5aVhHeTkwNWdEb0ZqaGhFdUl5MnVyT3hVemRlN015WTdNZHM5b1djZ1gwUkszeWFwNHNmQlVKWnZadlBia0tMczh6eVltclRSM24xekhUMXRNTUJreTVWb2R3OFBiOWlGcEY0enEzNUkwRDdRVTBpdnlFd0t4VFBEY3lBYXhQYmZfcW5UYkpzajFEcTZqbGx6WGpGVFVpYm1xUDNTVjZvX1U3d21yMU90c3F4WkpHbEZ5ck5rNWVyX1h5aFIzME5jVUlJVFB3TlVOMGV0cks2LTNHTnNsSmYyUzdB?oc=5",
+   "sources": [
+    "NewsX"
+   ],
+   "published": "2026-10-01T08:02:32Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "93252e5079d7",
+   "player": "Lorenzo Musetti",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "medium",
+   "headline": "Japan Open withdrawals: Lorenzo Musetti setback hands Arthur Fery late Japan Open opponent change",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHFSUkJTTXc2QUdDMXlsenNXaEtMNC1XWTN3ejVIbGxjWUlJMV9EUnB5RzZNTnNNNWhsNkFCSFZoMUZmcnJfZ2ZCMEszUWpLSDV5UnZmaFhmR1MwRk1LLXMwT0dVQVdjdW8zdkV0bTFIZkhZQ085Qkw5MmZtemo1SlFweS01WkpjTmNrSFkyc3JuQmFqeVVudjM3QW44czE3UnY2VkNfNHQ0LUpv?oc=5",
+   "sources": [
+    "Tennis365"
+   ],
+   "published": "2026-09-30T06:39:26Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  },
+  {
+   "id": "1c4347ab009f",
+   "player": "Unknown",
+   "type": "Withdrawal",
+   "reason": "",
+   "confidence": "low",
+   "headline": "'I suffered, but I enjoyed'",
+   "snippet": "Carlos Alcaraz discusses his US Open return, why he \"misses\" rival Jannik Sinner and his excitement for this year's Laver Cup.",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cmvgy73zvwx1o?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    "Alcaraz on smiling after defeat at 3:34am"
+   ],
+   "published": "2026-09-24T06:56:50Z",
+   "found_at": "2026-10-06T22:55:44Z"
+  }
+ ]
 }
