@@ -1,0 +1,10 @@
+[
+  {"name": "News: medical timeout", "url": "https://news.google.com/rss/search?q=tennis+%22medical+timeout%22+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"},
+  {"name": "News: retires injury", "url": "https://news.google.com/rss/search?q=tennis+retires+injury+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"},
+  {"name": "News: withdraws injury", "url": "https://news.google.com/rss/search?q=tennis+withdraws+injury+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"},
+  {"name": "News: ATP injury", "url": "https://news.google.com/rss/search?q=ATP+injury+update+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"},
+  {"name": "News: WTA injury", "url": "https://news.google.com/rss/search?q=WTA+injury+withdraws+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"},
+  {"name": "News: breaks and hiatus", "url": "https://news.google.com/rss/search?q=tennis+%22taking+a+break%22+OR+hiatus+OR+sabbatical+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"},
+  {"name": "BBC Sport tennis", "url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"},
+  {"name": "Reddit r/tennis", "url": "https://www.reddit.com/r/tennis/.rss"}
+]
