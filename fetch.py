@@ -14,7 +14,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 
-from extractor import extract
+from extractor import extract, player_key, strip_source
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = ROOT
@@ -130,11 +130,31 @@ def find_match(events, ev):
     for old in events:
         if old["id"] == ev["id"] or norm(old["headline"]) == norm(ev["headline"]):
             return old
-        if ev["player"] != "Unknown" and old["player"] == ev["player"] and old["type"] == ev["type"]:
+        if (ev["player"] != "Unknown" and player_key(old["player"]) == player_key(ev["player"])
+                and old["type"] == ev["type"]):
             gap = abs(parse_iso(old["published"]) - parse_iso(ev["published"]))
             if gap < timedelta(hours=MERGE_WINDOW_H):
                 return old
     return None
+
+
+def refresh(events):
+    """Re-check stored events with the current extractor, so improvements also clean up old entries."""
+    out = []
+    for e in sorted(events, key=lambda x: x["published"], reverse=True):
+        res = extract(e["headline"], e.get("snippet", ""), clean=True)
+        if not res:
+            continue
+        e.update({"player": res["player"], "type": res["type"],
+                  "reason": res["reason"], "confidence": res["confidence"]})
+        old = find_match(out, e)
+        if old:
+            for s in e.get("sources", []):
+                if s not in old["sources"]:
+                    old["sources"].append(s)
+            continue
+        out.append(e)
+    return out
 
 
 def same(a, b):
@@ -153,6 +173,7 @@ def main():
     old_file = load_json(EVENTS_FILE, {"events": []})
     events = list(old_file.get("events", []))
     old_events_snapshot = json.loads(json.dumps(events))
+    events = refresh(events)
 
     cutoff = now() - timedelta(days=MAX_AGE_DAYS)
     status, failed, added = [], 0, 0
@@ -176,7 +197,7 @@ def main():
             res = extract(it["title"], it["summary"])
             if not res:
                 continue
-            headline = re.sub(r"\s[-–|]\s[^-–|]+$", "", it["title"]) if " - " in it["title"] else it["title"]
+            headline = strip_source(it["title"])
             source = it["source"] or (it["title"].rsplit(" - ", 1)[-1] if " - " in it["title"] else name)
             ev = {
                 "id": hashlib.sha1((it["link"] or it["title"]).encode("utf-8")).hexdigest()[:12],
