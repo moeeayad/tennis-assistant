@@ -144,9 +144,9 @@ function render(){ renderChips(); renderHeader(); renderBoard(); renderList(); r
 
 async function load(){
   try{
-    const e = await fetch("data/events.json?t=" + Date.now()).then(r => r.json());
+    const e = await fetch("events.json?t=" + Date.now()).then(r => r.json());
     state.events = e.events || [];
-    const s = await fetch("data/status.json?t=" + Date.now()).then(r => r.json()).catch(() => ({feeds: []}));
+    const s = await fetch("status.json?t=" + Date.now()).then(r => r.json()).catch(() => ({feeds: []}));
     state.feeds = s.feeds || [];
   }catch(err){
     document.getElementById("list").innerHTML = '<div class="empty">Could not load data. Open this page from your published site, not from the file on your computer.</div>';

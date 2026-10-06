@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fetch tennis news feeds, pull out injury / MTO events, save to public/data/events.json.
+Fetch tennis news feeds, pull out injury / MTO events, save to events.json.
 Runs in GitHub Actions on a schedule. Uses only the Python standard library.
 """
 import hashlib
@@ -17,7 +17,7 @@ from html import unescape
 from extractor import extract
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(ROOT, "public", "data")
+DATA_DIR = ROOT
 EVENTS_FILE = os.path.join(DATA_DIR, "events.json")
 STATUS_FILE = os.path.join(DATA_DIR, "status.json")
 FEEDS_FILE = os.path.join(ROOT, "feeds.json")
